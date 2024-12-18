@@ -6,4 +6,4 @@
 + [机器学习100天：初学者从入门到实践的完整指南](https://cloud.baidu.com/article/3323312)
 + [机器学习入门资料课程分享](https://blog.csdn.net/yumi13141102/article/details/140209678)
 + [9门最佳机器学习课程 [2024]](https://blog.csdn.net/mzgxinhua/article/details/135041247)
-+ 
++ [https://www.khanacademy.org/math/calculus-1](https://www.khanacademy.org/math/calculus-1)
